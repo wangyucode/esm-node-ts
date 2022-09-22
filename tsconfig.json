@@ -1,0 +1,11 @@
+{
+    "ts-node": {
+        "esm": true
+    },
+    "compilerOptions": {
+        // "target": "ES6",
+        "esModuleInterop": true,
+        "module": "ESNext",
+        "moduleResolution": "Node16"
+    }
+}
